@@ -1,0 +1,19 @@
+{
+  "name": "tscad-start",
+  "version": "1.0.0",
+  "description": "project template for storing your 3D files using tscad",
+  "scripts": {
+    "render": "tscad-render",
+    "viewer": "tscad-viewer"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tscad": "https://github.com/richardwa/tscad/releases/download/0.0.1/tscad-0.0.1.tgz",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.35",
+    "ts-node": "^9.1.1"
+  }
+}
