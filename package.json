@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tscad": "https://github.com/richardwa/tscad/releases/download/0.0.1/tscad-0.0.1.tgz",
+    "tscad": "file:..\\tscad-0.0.1.tgz",
     "typescript": "^4.2.3"
   },
   "devDependencies": {
